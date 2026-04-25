@@ -119,12 +119,14 @@ Place dataset inside:
 
 ## ▶️ How to Run
 
-### Step 1: Clone Repository
+### Step 1: Downlode the dataset
+(use link given above)
 
 ---
 
-### Step 2: Install Dependencies
-
+### Step 2: Paste the code in COLAB
+* Paste the code in COLAB
+* copy the path of dataset
 ---
 
 ### Step 3: Train Model
