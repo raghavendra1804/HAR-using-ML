@@ -38,19 +38,19 @@ Final Output: **Detected Human Activity**
 
 ##  System Architecture
 
-![Pipeline](media/images/pipeline.png)
+![Pipeline](media/System_arch.jpeg)
 
 ---
 
 ##  Flow Diagram
 
-![Flow Diagram](media/images/flow.png)
+![Flow Diagram](media/Flow_diagram.jpeg)
 
 ---
 
 ##  CNN Architecture
 
-![CNN Model](media/images/cnn_model.png)
+![CNN Model](media/CNN_arch.jpeg)
 
 ---
 
@@ -58,11 +58,11 @@ Final Output: **Detected Human Activity**
 
 ###  Accuracy Graph
 
-![Accuracy Plot](media/images/accuracy.png)
+![Accuracy Plot](media/accuracy.png)
 
 ###  Confusion Matrix
 
-![Confusion Matrix](media/images/confusion_matrix.png)
+![Confusion Matrix](media/confution.png)
 
 ---
 
