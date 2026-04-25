@@ -110,7 +110,7 @@ Final Output: **Detected Human Activity**
 
 ## 📥 Dataset
 
-👉 https://www.kaggle.com/datasets/uciml/human-activity-recognition-with-smartphones  
+👉 https://www.kaggle.com/datasets/sakshishukralia/smartaberration 
 
 Place dataset inside:
 
